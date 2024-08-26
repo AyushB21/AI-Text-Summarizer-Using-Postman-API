@@ -16,3 +16,13 @@ This project is an AI-powered text summarizer built using **Postman**, **Express
 - **Express (Node.js)**: Handles server-side functionality and API routing.
 - **Hugging Face**: Provides the AI models for text summarization.
 - **HTML, CSS, JavaScript**: Builds the user interface and interactions on the frontend.
+
+- ## Usage
+
+- **Text Input**: Enter the text you want summarized in the text area.
+- **Submit**: The API will generate a concise summary of the input text.
+- **View Summary**: The result is displayed in a clean, readable format on the frontend.
+
+## API Endpoints
+
+- **POST /summarize**: Takes in a JSON body with text and returns a summarized version.
