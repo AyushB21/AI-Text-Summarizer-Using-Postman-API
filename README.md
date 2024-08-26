@@ -26,3 +26,11 @@ This project is an AI-powered text summarizer built using **Postman**, **Express
 ## API Endpoints
 
 - **POST /summarize**: Takes in a JSON body with text and returns a summarized version.
+
+## Future Improvements
+- Multi-Language Support: Plan to add support for summarizing text in multiple languages.
+- Improved UI: Enhancing the frontend with better design elements and UX improvements.
+- More Models: Incorporating more summarization models to provide users with options for different summarization techniques.
+
+## Contributing
+Feel free to fork this repository, submit issues, and send pull requests. Contributions are highly appreciated!
